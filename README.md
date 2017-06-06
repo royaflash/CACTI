@@ -1,0 +1,2 @@
+# CACTI
+Cacti autoinstall script
